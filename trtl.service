@@ -1,0 +1,8 @@
+[Unit]
+Description=mine
+
+[Service]
+ExecStart=/home/mine/trtl.sh
+
+[Install]
+WantedBy=multi-user.target
