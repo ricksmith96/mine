@@ -1,2 +1,2 @@
-/home/$USER/trtl/./violetminer
+sudo /home/$USER/trtl/./violetminer
 exit 0
