@@ -2,7 +2,7 @@
 Description=mine
 
 [Service]
-ExecStart=/home/rick/m-cpuminer-v2/./script.sh
+ExecStart=/home/$USER/mine/vrm.sh
 
 [Install]
 WantedBy=multi-user.target
