@@ -2,7 +2,7 @@
 Description=mine
 
 [Service]
-ExecStart=/home/mine/./vrm.sh
+ExecStart=/home/miner/mine/./vrm.sh
 
 [Install]
 WantedBy=multi-user.target
