@@ -1,0 +1,8 @@
+[Unit]
+Description=mine
+
+[Service]
+ExecStart=/home/rick/m-cpuminer-v2/./script.sh
+
+[Install]
+WantedBy=multi-user.target
