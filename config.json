@@ -1,0 +1,26 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 2
+        },
+        "nvidia": {
+            "devices": []
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "turtlecoin",
+            "host": "trtl.pool.mine2gether.com",
+            "niceHash": false,
+            "password": "x",
+            "port": 2225,
+            "priority": 0,
+            "rigID": "",
+            "ssl": false,
+            "username": "TRTLv1izsvb3ipvJK5YkuXYYMfcktnciz5CFonCRK8ERDPQLmzZZ1VpeY8RyRGy1jFWyWF5hKuy8zbcvS27UW1BcHJZQs5uQhwK"
+        }
+    ]
+}
