@@ -2,7 +2,7 @@
 Description=mine
 
 [Service]
-ExecStart=/home/mine/xmg.sh
+ExecStart=/home/mine/./xmg.sh
 
 [Install]
 WantedBy=multi-user.target
